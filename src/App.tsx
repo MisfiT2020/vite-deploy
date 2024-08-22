@@ -8,7 +8,7 @@ const App: React.FC = () => {
   return (
     <div className="app-container">
       <header className="header">
-        <a href="www.linkedin.com/in/srikousik" target="_blank" rel="noopener noreferrer">
+        <a href="https://linkedin.com/in/srikousik" target="_blank" rel="noopener noreferrer">
           <img src={linkedinIcon} alt="LinkedIn" className="social-icon" />
         </a>
         <a href="https://github.com/MisfiT2020" target="_blank" rel="noopener noreferrer">
