@@ -19,7 +19,7 @@ const App: React.FC = () => {
       <div className="animated-text">
         <Typewriter
           options={{
-            strings: ["I'm a coder", "I'm a developer", "I'm a designer", "I'm a Telegram Developer"],
+            strings: ["FreeBie", "Developer", "Designer", "Telegram Bot Developer"],
             autoStart: true,
             loop: true,
           }}
